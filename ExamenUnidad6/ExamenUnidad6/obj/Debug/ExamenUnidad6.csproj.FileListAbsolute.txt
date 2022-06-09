@@ -1,0 +1,7 @@
+C:\Users\hp\source\repos\ExamenUnidad6\ExamenUnidad6\bin\Debug\ExamenUnidad6.exe.config
+C:\Users\hp\source\repos\ExamenUnidad6\ExamenUnidad6\bin\Debug\ExamenUnidad6.exe
+C:\Users\hp\source\repos\ExamenUnidad6\ExamenUnidad6\bin\Debug\ExamenUnidad6.pdb
+C:\Users\hp\source\repos\ExamenUnidad6\ExamenUnidad6\obj\Debug\ExamenUnidad6.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ExamenUnidad6\ExamenUnidad6\obj\Debug\ExamenUnidad6.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ExamenUnidad6\ExamenUnidad6\obj\Debug\ExamenUnidad6.exe
+C:\Users\hp\source\repos\ExamenUnidad6\ExamenUnidad6\obj\Debug\ExamenUnidad6.pdb
